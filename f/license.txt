@@ -1,0 +1,11 @@
+Model Information:
+* title:	Duplex Garage
+* source:	https://sketchfab.com/3d-models/duplex-garage-58295ae3006b4e3fad6686b13371c724
+* author:	jtressle (https://sketchfab.com/jtressle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Duplex Garage" (https://sketchfab.com/3d-models/duplex-garage-58295ae3006b4e3fad6686b13371c724) by jtressle (https://sketchfab.com/jtressle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
